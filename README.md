@@ -24,7 +24,7 @@ Problem Identification:
       Difficult to Use. And it is Complex to Understand the System.**
       
 Problem Definition :
-     ** The Problem is the Software and Web Application is Available but there is One Problem to the
+    ** The Problem is the Software and Web Application is Available but there is One Problem to the
       User that the User doesn‟t know that which Function has which Functionality.
       So, as the Solution of this Problem we are developing a New Web Site which has GUI and
       Simple Functionalities.**
